@@ -3,7 +3,7 @@ import { Context, Effect, Ref, pipe } from "effect";
 import { FollowerSchema, IFollower, ISearchResults, SearchResultsSchema, VideoDetailsSchema } from "./Schema";
 
 
-const GOOGLE_AUTH_TOKEN = `Bearer ya29.a0AfB_byDf0bNBjCkczBloRm9v92l6O1wmFu0ZZA1m7icH4L5Txf5uutsus0AySxi9mbcMt6blM-AmEPYfC-3kCPxG3oiTFjRXPLQvoQlvzpwvCypBhnmF7RTFDSHcHlZP--qepJGAy-hKweqH6-SglN60f7PMrCec55fQaCgYKAVYSARISFQGOcNnC_LJbNAtdAdLlqVSC885Ruw0171`;
+const GOOGLE_AUTH_TOKEN = `Bearer `;
 
 //Error Classes//
 
